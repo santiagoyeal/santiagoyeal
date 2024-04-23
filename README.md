@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👽 About Me:
 🚀 Language of Choice: I specialize in Python programming, particularly in the realm of ERP systems.
 <br>
 📘 Expanding Skills: Currently, I'm broadening my expertise in Java Spring Boot through dedicated courses.

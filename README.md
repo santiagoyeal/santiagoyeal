@@ -52,11 +52,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visits-000000?style=for-the-badge&logo=github&labelColor=blue&color=brightgreen" alt="Visitor Count"/>
-</p>
-
-
----
-
 > **📅 Last Edited on**: 20/05/2025

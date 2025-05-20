@@ -52,13 +52,6 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=santiagoyeal&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Visits-000000?style=for-the-badge&logo=github&labelColor=blue&color=brightgreen" alt="Visitor Count"/>
 </p>
@@ -66,4 +59,4 @@
 
 ---
 
-> **📅 Last Edited on**: 31/03/2025
+> **📅 Last Edited on**: 20/05/2025

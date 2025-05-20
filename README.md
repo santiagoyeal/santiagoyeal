@@ -19,7 +19,7 @@
 
 ### **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vue,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,html,css,bootstrap&theme=dark" />
 </p>
 
 ### **Cloud & DevOps**

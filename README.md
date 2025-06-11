@@ -14,12 +14,12 @@
 ## 💻 Tech Stack:
 ### **Backend & Data**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,javascript,flask,mongodb,postgresql,mysql,sqlite,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,flask,mongodb,postgresql,mysql,sqlite,docker&theme=dark" />
 </p>
 
 ### **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,javascript,typescript,html,css,bootstrap&theme=dark" />
 </p>
 
 ### **Cloud & DevOps**

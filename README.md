@@ -14,7 +14,7 @@
 ## 💻 Tech Stack:
 ### **Backend & Data**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,flask,mongodb,postgresql,mysql,sqlite,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,flask,mongodb,postgresql,mysql&theme=dark" />
 </p>
 
 ### **Frontend**

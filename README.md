@@ -25,7 +25,6 @@
 ### Backend & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,java,flask,mongodb,postgresql,mysql&theme=dark" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Odoo-7C3AED?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
 </p>
 
 ### Frontend

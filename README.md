@@ -1,31 +1,35 @@
-# <p align="center"> <b>Santiago Rogelio Alcalá Yépez</b></p>
+# <p align="center">Santiago Rogelio Alcalá Yépez</p>
 
 <p align="center">
   <b>Ingeniero en Sistemas Computacionales</b>
 </p>
 
 <p align="center">
-  Desarrollo Full Stack • ERP • Backend • Bases de Datos • Infraestructura
+  Desarrollo Full Stack • ERP • Sistemas Logísticos • Backend • Bases de Datos • Infraestructura
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador de software con experiencia en el diseño, desarrollo e integración de sistemas empresariales.
+Ingeniero en Sistemas Computacionales y desarrollador Full Stack con experiencia en el diseño, desarrollo e integración de sistemas empresariales, logísticos y gubernamentales.
 
-He participado en proyectos relacionados con ERP, logística, plataformas gubernamentales, sistemas administrativos, dashboards, automatización de procesos y desarrollo de aplicaciones web.
+He participado en proyectos relacionados con ERP, logística, operaciones aduanales, plataformas institucionales, automatización de procesos, dashboards ejecutivos y desarrollo de aplicaciones empresariales.
+
+Mi experiencia abarca desde el análisis funcional y diseño de soluciones hasta el desarrollo backend, frontend, integración de servicios externos, optimización de bases de datos y despliegue de aplicaciones.
 
 ### Áreas de experiencia
 
 - Desarrollo y personalización de Odoo
-- APIs REST y servicios backend
-- Sistemas ERP
-- Sistemas logísticos y administrativos
-- Dashboards y reportes
-- Optimización SQL
+- Sistemas ERP y automatización empresarial
+- Sistemas logísticos y aduanales
+- Gestión de inventarios y almacenes
+- Integraciones mediante APIs REST
+- Dashboards y reportes ejecutivos
+- Optimización SQL y procedimientos almacenados
 - Docker e infraestructura Linux
 - Migraciones y actualizaciones de sistemas
+- Desarrollo Full Stack
 
 ---
 
@@ -37,10 +41,18 @@ He participado en proyectos relacionados con ERP, logística, plataformas gubern
   <img src="https://skillicons.dev/icons?i=python,nodejs,java,django,fastapi&theme=dark" />
 </p>
 
+<p align="center">
+  ColdFusion • Odoo Framework
+</p>
+
 ### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,javascript,typescript,html,css,bootstrap&theme=dark" />
+</p>
+
+<p align="center">
+  Ext JS
 </p>
 
 ### Bases de Datos
@@ -50,7 +62,7 @@ He participado en proyectos relacionados con ERP, logística, plataformas gubern
 </p>
 
 <p align="center">
-  SQL Server • Oracle Database • ColdFusion • Ext JS
+  SQL Server • Oracle Database
 </p>
 
 ### Infraestructura
@@ -67,18 +79,71 @@ He participado en proyectos relacionados con ERP, logística, plataformas gubern
 
 ## 🚀 Especialidades
 
-- Python
-- Node.js
-- Odoo
-- FastAPI
-- SQL Server
-- PostgreSQL
-- Docker
-- Ext JS
-- ColdFusion
-- Integración de Sistemas
-- Automatización de Procesos
+### ERP y Sistemas Empresariales
+
+- Desarrollo de módulos Odoo
+- Contabilidad y finanzas
+- Inventarios y almacenes
+- Compras y ventas
+- Helpdesk
+- Automatización de procesos
+- Migraciones y upgrades de Odoo
+- Integración con sistemas externos
+
+### Sistemas Logísticos y Aduanales
+
+- Gestión de manifiestos
+- Pedimentos
+- Control de almacenes
+- Trazabilidad de mercancías
+- Procesos de importación y exportación
+- Operaciones logísticas
+- Reportería operativa
+- Seguimiento de envíos
+
+### Integraciones Empresariales
+
+- APIs REST
+- Integración con servicios de paquetería
+- Automatización de procesos de envío
+- Consumo de servicios externos
+- Integración entre plataformas empresariales
+
+### Desarrollo y Arquitectura
+
+- Backend Development
+- Full Stack Development
 - Arquitectura de Software
+- Optimización SQL
+- Dashboards Empresariales
+- Automatización de Procesos
+- Integración de Sistemas
+
+---
+
+## 📂 Experiencia Destacada
+
+### ERP y Automatización
+
+- Desarrollo y personalización de módulos empresariales.
+- Migraciones entre versiones de ERP.
+- Automatización de procesos operativos y administrativos.
+- Desarrollo de soluciones para áreas contables, inventarios y operaciones.
+
+### Sistemas Logísticos
+
+- Desarrollo de soluciones para operaciones logísticas y aduanales.
+- Gestión de manifiestos, pedimentos y operaciones de almacén.
+- Sistemas de trazabilidad y seguimiento de mercancías.
+- Integración con proveedores de mensajería y paquetería.
+- Generación de reportes operativos y administrativos.
+
+### Plataformas Institucionales
+
+- Desarrollo de sistemas administrativos.
+- Dashboards y plataformas estadísticas.
+- Sistemas de gestión documental.
+- Sistemas de seguimiento y control.
 
 ---
 
@@ -111,11 +176,14 @@ He participado en proyectos relacionados con ERP, logística, plataformas gubern
 
 - Sistemas Empresariales
 - ERP
+- Sistemas Logísticos
 - Backend Development
-- DevOps
-- Inteligencia Artificial
 - Arquitectura de Software
+- Inteligencia Artificial
+- DevOps
+- Integración de Sistemas
 - Automatización de Procesos
+- Bases de Datos
 
 ---
 
